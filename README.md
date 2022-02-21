@@ -1,7 +1,7 @@
 # Covid 19 Tracker Power Bi
 ## _The Last Tracker for Covid, Ever_
 
-[![N|Solid](https://raw.githubusercontent.com/RicardoSu/Covid-Power-BI/main/Template.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://raw.githubusercontent.com/RicardoSu/Covid-Power-BI/main/Template.png)]
 
 
 Covid 19 Tracker Power Bi could be edited to monitor daily cases.
